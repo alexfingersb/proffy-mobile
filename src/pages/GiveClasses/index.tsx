@@ -22,7 +22,7 @@ function GiveClasses() {
       >
         <Text style={styles.title}>Quer ser um Proffy?</Text>
         <Text style={styles.description}>
-          Para começar, você precisa se cadastrar como proessor na nossa
+          Para começar, você precisa se cadastrar como professor na nossa
           plataforma web.
         </Text>
 
